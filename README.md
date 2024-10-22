@@ -41,6 +41,7 @@ mvn exec:java
 
 </div>
 
+<div>
 
 ## 📂 Estrutura do Projeto
 
@@ -52,14 +53,18 @@ mvn exec:java
 │   └── test/
 ├── pom.xml
 └── README.md
+</div>
 
-🛠️ Contribuindo
+## 🛠️ Contribuindo
+
+<div>
 
 Faça um fork do projeto.
 Crie uma branch: git checkout -b minha-nova-feature.
 Faça o commit das alterações: git commit -m 'Minha nova feature'.
 Envie para o repositório: git push origin minha-nova-feature.
 Crie um Pull Request.
+</div>
 
  ## 📜 Licença
 Distribuído sob a licença Apache 2.0. Veja LICENSE para mais informações.
