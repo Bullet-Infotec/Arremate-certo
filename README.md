@@ -1,38 +1,46 @@
 ## <p align="center"> 🏆 Arremate Certo 🏆</p>
 
+<p align="center">
+Arremate Certo é um sistema desenvolvido em Java para automação de lances e licitações públicas, oferecendo mais eficiência e precisão em suas estratégias. 🚀
+</p>
 
-<div>
-<p align="center">Arremate Certo é um sistema desenvolvido em Java para automação de lances e licitações públicas, oferecendo mais eficiência e precisão em suas estratégias. 🚀</p>
-<div/>
-<p align="center"> <img src="https://img.shields.io/badge/versão-1.0-brightgreen"> <img src="https://img.shields.io/badge/licença-Apache_2.0-blue"> <img src="https://img.shields.io/badge/linguagem-Java_11+-orange"> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/versão-1.0-brightgreen">
+  <img src="https://img.shields.io/badge/licença-Apache_2.0-blue">
+  <img src="https://img.shields.io/badge/linguagem-Java_11+-orange">
+</p>
 
-   ## 🎯 Funcionalidades Principais
+## 🎯 Funcionalidades Principais
 
-  
-<div align="center">  
-  
-🔄 Automação de Lances: Defina regras personalizadas para lances automáticos.
-📊 Relatórios de Participação: Geração de relatórios detalhados sobre o desempenho em cada licitação.
-🔗 Integração com Portais de Licitação: Conexão facilitada com diversos portais públicos e privados.
-</div>
+- 🔄 **Automação de Lances:** Defina regras personalizadas para lances automáticos.
+- 📊 **Relatórios de Participação:** Geração de relatórios detalhados sobre o desempenho em cada licitação.
+- 🔗 **Integração com Portais de Licitação:** Conexão facilitada com diversos portais públicos e privados.
 
-  
- ## ⚙️ Pré-requisitos
+## ⚙️ Pré-requisitos
 
-Java 11+ (ou superior)
-Dependências gerenciadas via Maven
-🚀 Como Iniciar
+- Java 11+ (ou superior)
+- Dependências gerenciadas via Maven
+
+## 🚀 Como Iniciar
+
 Clone o repositório:
 
 ```bash
 git clone https://github.com/Bullet-Infotec/Arremate-certo.git
-Importe o projeto em sua IDE favorita (IntelliJ, Eclipse, etc.).
+
 
 Compile e execute o projeto:
 
+<div>
+
+   
 ```bash
 mvn clean install
 mvn exec:java
+
+
+</div>
+
 
 ## 📂 Estrutura do Projeto
 
@@ -56,4 +64,4 @@ Crie um Pull Request.
  ## 📜 Licença
 Distribuído sob a licença Apache 2.0. Veja LICENSE para mais informações.
 
-# Feito com 💙 por Bullet Infotech.
+## Feito com 💙 por Bullet Infotech.
